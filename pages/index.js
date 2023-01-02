@@ -36,7 +36,7 @@ export default function Home({ launches }) {
                 padding="4"
                 border="1px solid #fff"
                 transition="0.3s ease 0s"
-                _hover={{ border: "1px solid #d5d5d5" }}
+                _hover={{ border: "1px solid #d5d5d5", background: "#f7f7f7" }}
               >
                 <Box>
                   <Image
